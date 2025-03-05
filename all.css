@@ -1,0 +1,203 @@
+*{
+    margin: 0px;
+}
+.header{
+    padding-left: 4%;
+    padding-right: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #35424a ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: sticky;
+    top: 0px;
+    box-shadow: 2px 2px 2px 2px #ed4a18;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.h1{
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+a:hover{
+    color:#ed4a18 ;
+}
+span{
+    color:#ed4a18 ;
+    padding-right: 10px;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: #ed4a18;
+}
+
+/* first home section */
+.firsthome{
+    padding-top: 70px;
+    text-align: center;
+    background-image: url(IMG_1194.JPG);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+}
+.web{
+    font-size: 70px;
+    color: whitesmoke;
+    padding-bottom: 20px;
+}
+.lorem{
+    color: whitesmoke;
+}
+/* second home section */
+.secondhome{
+    background-color:#35424a ;
+}
+.allhomediv{
+    text-align: center;
+    display: flex;
+    padding-left: 400px;
+    gap: 30px;
+}
+.our{
+    color: whitesmoke;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-size: 20px;
+}
+button:hover{
+    cursor: pointer;
+}
+.form{
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+input{
+    padding: 5px;
+    background-color: #35424a;
+    border-color: whitesmoke;
+}
+.button{
+    padding: 6px;
+    background-color: #ed4a18;
+    color: whitesmoke;
+}
+ /* third section home */
+ .thirdhtml{
+    padding-top: 40px;
+    background-color: black;
+    padding-left: 4% ;
+    padding-right: 4%;
+ }
+ .thirdhtmldiv{
+    display: flex;
+    justify-content: space-between;
+ }
+ .markupdiv{
+    align-items: center;
+ }
+ .vel{
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 10px;
+ }
+ img{
+    padding-left: 110px;
+ }
+ .html5{
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 7px;
+ }
+
+ /* Home footer */
+ .homefooter{
+    background-color: #ed4a18;
+ }
+ .copy{
+    padding:15px;
+    text-align: center;
+ }
+ .right{
+    color: whitesmoke;
+    font-size: 15px;
+ }
+
+ /* about us second section */
+ .secondabout{
+    padding-top: 40px;
+    background-color: black;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 30px;
+ }
+ .us{
+    color: whitesmoke;
+ }
+ .dolor{
+    color: whitesmoke;
+    background-color: #35424a;
+    border: 1px solid;
+    border-color: whitesmoke;
+    padding: 10px;
+ }
+ .hh1{
+    color: whitesmoke;
+    padding-bottom: 30px;
+    padding-top: 30px;
+ }
+ .sit{
+    color: whitesmoke;
+ }
+ .aboutdiv{
+    display: flex;
+    justify-content: space-between;
+ }
+ .facilis{
+    padding-bottom: 60px;
+    padding-top: 15px;
+ }
+ .what{
+    background-color: #35424a;
+    border: 1px solid;
+    border-color: whitesmoke;
+ }
+/* 
+ services section */
+.us{
+    padding-bottom: 15px;
+}
+.get{
+    color: whitesmoke;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+label{
+    color: whitesmoke;
+}
+.quote{
+    background-color: #35424a;
+    padding: 20px;
+}
+.butto{
+    padding: 6px;
+    background-color: #ed4a18;
+    color: whitesmoke;
+}
+.mikky{
+    padding-top: 5px;
+}
+/* contact section */
+textarea{
+    background-color: #35424a;
+    padding: 5px;
+}

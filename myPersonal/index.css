@@ -1,0 +1,33 @@
+.bg{
+    background-image: url(./image/yoga_banner.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.color{
+    color: #008c83;
+}
+.btn-outline-success:hover{
+    background-color:#244f48 !important;
+}
+.btn-outline-secondary{
+    border: 1px solid #ffff !important;
+}
+.btn-outline-secondary:hover{
+    background-color:#244f48 !important;
+}
+.btn-outline-secondary-text:hover{
+    background-color:#244f48 !important
+}
+.btn-outline-secondary-text{
+    border: 1px solid black !important;
+}
+.img{
+    text-align: center;
+}
+.px-30{
+    padding-left: 450px;
+}
+.bg-color{
+    background-color: #f2f4ff;
+}
